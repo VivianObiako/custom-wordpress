@@ -1,0 +1,24 @@
+/* Plain CSS */
+// .wp-block-udemy-recipe ul.list-unstyled{ 
+//   padding-left: 0; 
+//   list-style: none; 
+// }
+
+// .wp-block-udemy-recipe li{ 
+//   margin: 0;
+//   padding: 0;
+// }
+/* SCSS */
+.wp-block-udemy-recipe{
+  ul.list-unstyled{
+    padding-left: 0;
+    list-style: none;
+    font-family: 'Lato', sans-serif;
+;
+  }
+
+  li{
+    margin: 0;
+    padding: 0;
+  } 
+}
